@@ -1,6 +1,6 @@
 {
-    "versionNum":"0.0.1",
-    "resourceUrl":"xxxx.wgt",
+    "versionNum":"1.0.1",
+    "resourceUrl":"https://web3bitark.github.io/static/tk/__UNI__CC4D233.wgt",
     "forcedUpdate":true,
-    "content":"xxxxxxxxx"
+    "content":"修复已知bug"
 }
