@@ -1,6 +1,6 @@
 {
     "versionNum":"1.0.1",
-    "resourceUrl":"https://web3bitark.github.io/static/tk/tk.wgt",
+    "resourceUrl":"http://103.214.172.48:9000/app/tk.wgt",
     "forcedUpdate":true,
     "content":"修复已知bug"
 }
